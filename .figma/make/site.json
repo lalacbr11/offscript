@@ -1,0 +1,11 @@
+{
+  "title": "OffScript - Date Planner",
+  "description": "Helps couples find personalized date ideas that fit both partners’ moods, time, budget, and location, with options to save and revisit.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

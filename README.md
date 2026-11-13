@@ -31,7 +31,7 @@ My wife and I wanted more variety in our date nights. I chose a problem I unders
 
 I defined the product problem and requirements, directed the visual style, curated and refined the date concepts, and manually tested the published prototype on desktop Safari and iPhone Safari. Testing led to revisions to saved-plan access, suggestion feedback, Home navigation, and partner-answer privacy.
 
-Figma Make generated and revised the application code using AI assistance. ChatGPT assisted with planning, prompts, QA guidance, and documentation. This is **not** presented as entirely hand-coded work. Automated checks reported by Figma Make are distinguished from my manual results and packaging checks in [QA evidence](docs/QA.md).
+Figma Make generated and revised the application code. ChatGPT supported planning, prompt refinement, QA guidance, and documentation. I defined the requirements, directed the revisions, and performed the manual testing. The [QA record](docs/QA.md) distinguishes manual results from automated checks.
 
 ## Run locally
 
@@ -85,7 +85,6 @@ public/favicon.png  Exported app icon
 - [QA evidence and manual test record](docs/QA.md)
 - [Bug and iteration log](docs/BUG_LOG.md)
 - [Submission snapshot and packaging changes](docs/SUBMISSION.md)
-- [Review handoffs for Andi and Dex](docs/HANDOFFS.md)
 
 <details>
 <summary>iPhone home screenshot</summary>

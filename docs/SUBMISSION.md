@@ -17,6 +17,6 @@ Inspired by date nights with my wife, OffScript helps couples break routine with
 
 The supplied Figma ZIP is the source of this package. Its app source and original configuration are unchanged. `export-checksums.json` records SHA-256 hashes of the imported files. The screenshot is copied from the user-supplied published iPhone home capture. No screenshots containing email, account menus, or unrelated tabs are included.
 
-Portfolio additions: README, case study, QA record, bug log, validation report, data validation script, submission manifest, review handoffs, and GitHub Actions workflow. The packaging work is subsequent to submission and is not a recreated Figma commit history.
+Portfolio additions: README, case study, QA record, bug log, validation report, data validation script, submission manifest, and GitHub Actions workflow. The packaging work is subsequent to submission and is not a recreated Figma commit history.
 
 The live URL may change after submission; these files preserve the supplied code snapshot. No claim is made that future live updates match this snapshot.
